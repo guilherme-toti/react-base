@@ -1,7 +1,7 @@
 {
-  "name": "react-televendas",
+  "name": "react-base",
   "version": "1.0.0",
-  "description": "New Televendas's system using React",
+  "description": "My development base to React projects",
   "main": "index.js",
   "scripts": {
     "production": "webpack -p",
@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "react": "^0.14.8",
-    "react-dom": "^0.14.8"
+    "react-dom": "^0.14.8",
+    "react-router": "^2.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.7.4",
